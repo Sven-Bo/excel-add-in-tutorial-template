@@ -1,4 +1,3 @@
-Attribute VB_Name = "mIfError"
 '*******************************************************************************
 '*
 '*  Author: Sven from CodingIsFun
