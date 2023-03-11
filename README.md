@@ -22,6 +22,31 @@ https://bettersolutions.com/vba/ribbon/custom-ui-editor.htm
 ## List of imageMSO values and associated pictures
 https://bert-toolkit.com/imagemso-list.html
 
+## XML Code for the UI
+```xml
+<customUI xmlns="http://schemas.microsoft.com/office/2009/07/customui"> 
+  <ribbon startFromScratch="false"> 
+    <tabs> 
+      <tab id="CustomTab" label="My Add-in"> 
+        <group id="SimpleControls" label="ChatGPT"> 
+          <button id="Button1" image="ai" size="large" 
+                  label="Ask AI" 
+                  screentip="Ask AI" 
+                  onAction="OpenAI_Completion"/> 
+        </group>
+        <group id="Utils" label="Utils"> 
+          <button id="Button2" imageMso="EqualSign" size="normal" 
+                  label="IfErrorBlank" 
+                  onAction="IfErrorBlank"/> 
+          <button id="Button3" imageMso="EqualSign" size="normal" 
+                  label="IfErrorZero" 
+                  onAction="IfErrorZero"/> 
+        </group>  
+      </tab> 
+    </tabs> 
+  </ribbon> 
+</customUI> 
+```
 
 
 ## About Me
