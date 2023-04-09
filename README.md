@@ -1,4 +1,4 @@
-# Create Your Own Excel Add-In in 10 Minutes
+# How to Create a Custom Excel Add-in (Step-by-Step Guide)
 Are you tired of performing repetitive tasks in Microsoft Excel? Do you want to add new functionality to Excel and make it even more powerful? Then this tutorial is for you! In this step-by-step guide, you'll learn how to create a custom add-in for Excel using built-in tools. Whether you're a beginner or an experienced Excel user, this tutorial is easy to follow and packed with helpful tips and tricks.
 
 ## What You'll Learn
@@ -12,8 +12,7 @@ By the end of this tutorial, you'll have a custom Excel add-in that can help boo
 
 
 ## Video Tutorial
-..will follow soon!
-[![YouTube Video](https://img.youtube.com/vi/XXX/0.jpg)](https://youtu.be/XXX)
+[![YouTube Video](https://img.youtube.com/vi/avdVI14AxzM/0.jpg)](https://youtu.be/avdVI14AxzM)
 
 ## Reference
 The following website will be used as a reference in this tutorial:<br/>
