@@ -10,7 +10,6 @@ Are you tired of performing repetitive tasks in Microsoft Excel? Do you want to 
 
 By the end of this tutorial, you'll have a custom Excel add-in that can help boost your productivity and make your work in Excel more efficient.
 
-
 ## Video Tutorial
 [![YouTube Video](https://img.youtube.com/vi/avdVI14AxzM/0.jpg)](https://youtu.be/avdVI14AxzM)
 
@@ -47,9 +46,6 @@ https://bert-toolkit.com/imagemso-list.html
 </customUI> 
 ```
 
-
-
-
 ## More Solutions
 Explore my tools and templates for Excel, automation, and more.
 
@@ -59,11 +55,7 @@ Explore my tools and templates for Excel, automation, and more.
 - **Website:** [PythonAndVBA](https://pythonandvba.com)
 - **LinkedIn:** [Sven Bosau](https://www.linkedin.com/in/sven-bosau/)
 - **Contact:** [Get in Touch](https://pythonandvba.com/contact)
-## Support My Work
-Love my content and want to show appreciation? Why not [buy me a coffee](https://pythonandvba.com/coffee-donation) to fuel my creative engine? Your support means the world to me! 😊
+## Support
+If you find this project helpful, consider buying me a coffee. 
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://pythonandvba.com/coffee-donation)
-
-## Feedback
-Got some thoughts or suggestions? Don't hesitate to reach out to me at contact@pythonandvba.com. I'd love to hear from you! 💡
-![Logo](https://www.pythonandvba.com/banner-img)
